@@ -1,0 +1,6 @@
+# Feature 2 Worktree Test
+
+This file is in the `feature-2` worktree.
+Branch: feature-2
+Worktree path: D:\StudyProjects\TestWorktree\feature-2
+Base: main (2f4f8a4)
