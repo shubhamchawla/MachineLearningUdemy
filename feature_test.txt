@@ -1,0 +1,5 @@
+# Feature Worktree Test
+
+This file was created in the `feature` worktree to test Git worktree branch isolation.
+Branch: feature
+Worktree path: D:\StudyProjects\TestWorktree\feature
